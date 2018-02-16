@@ -1,0 +1,17 @@
+commands used n git bash :
+git add .
+
+git commit -m "descreptive"
+
+git merge ReadMe 
+
+git checkout master 
+
+git checkout -b ReadMe 
+
+git push 
+
+git config 
+
+git checkout .
+
